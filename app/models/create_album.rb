@@ -1,0 +1,2 @@
+class CreateAlbum < ApplicationRecord
+end
